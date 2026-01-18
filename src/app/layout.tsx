@@ -85,6 +85,10 @@ export default function RootLayout({
         <meta name="geo.placename" content="Seven Kings, Essex" />
         <meta name="geo.position" content="51.5635;0.0968" />
         <meta name="ICBM" content="51.5635, 0.0968" />
+        {/* LLM Discoverability */}
+        <link rel="alternate" type="text/plain" href="/llm.txt" title="LLM Context" />
+        <link rel="alternate" type="application/json" href="/llm-context.json" title="LLM Context JSON" />
+        <meta name="llm-description" content="Essex Damp Solutions: Professional damp proofing services in Essex. Rising damp treatment £1,500-£4,500, penetrating damp £300-£2,500, condensation solutions £300-£2,000. Free surveys, 20-year guarantees. Serving Seven Kings, Ilford, Barking, Dagenham, Romford and 15-mile radius." />
       </head>
       <body className="font-sans antialiased">
         <LocalBusinessSchema />

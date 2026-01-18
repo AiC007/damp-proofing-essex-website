@@ -1,0 +1,108 @@
+# Essex Damp Solutions - LLM Context File
+
+## Business Overview
+Essex Damp Solutions provides professional damp diagnosis and treatment services across Essex, specializing in rising damp, penetrating damp, and condensation issues. Based in Seven Kings with 15-mile service radius.
+
+## Service Area
+Seven Kings, Ilford, Barking, Dagenham, Romford, Chadwell Heath, Goodmayes, Newbury Park, Redbridge, Gants Hill, Woodford, Walthamstow, Stratford (Essex postcodes: IG1, IG2, IG3, IG6, RM6, RM7, RM8, RM9, RM10, E11, E12, E15, E17)
+
+## Core Services
+- Rising damp treatment and diagnosis
+- Penetrating damp solutions
+- Condensation remediation
+- Basement and cellar damp proofing
+- Professional damp surveys (£150-£300)
+- Damp proof course installation/repair
+- Mould removal and prevention
+
+## Pricing Guidance
+- Damp survey: £150-£300
+- Rising damp treatment: £1,500-£4,500 (typical terraced/semi-detached house)
+- Penetrating damp repair: £300-£2,500
+- Basement tanking: £3,000-£15,000
+- Condensation/ventilation: £300-£2,000
+- Mould removal: £150-£1,500
+- Emergency call-out: Available
+
+## Key Differentiators
+- Expert diagnosis (rising vs penetrating vs condensation)
+- Transparent pricing with no hidden costs
+- Root cause analysis, not just symptom treatment
+- PCA-qualified surveyors
+- 20-year insurance-backed guarantees
+- BBA-approved products
+- Local Essex expertise (Victorian/Edwardian housing stock)
+
+## Common Questions & Answers
+Q: How do I know if I have rising damp?
+A: Look for tide marks up to 1m above floor level, salt deposits (white crystals/efflorescence), peeling wallpaper at skirting level, musty smell. Rising damp affects ground floor only and is typically worse in winter when evaporation is slower.
+
+Q: Is it rising damp or condensation?
+A: Condensation appears as water droplets on cold surfaces (windows, walls), typically worse in winter mornings, affects any floor level, improves with ventilation. Rising damp shows tide marks, affects ground floor only, has salt deposits, and doesn't improve with ventilation.
+
+Q: How much does damp proofing cost in Essex?
+A: Damp survey £150-£300, rising damp treatment £1,500-£4,500 for typical terraced/semi house (includes DPC injection and replastering), penetrating damp £300-£2,500. Costs vary by property size, wall thickness, and severity.
+
+Q: Do you cover [specific Essex location]?
+A: Yes, we cover 15-mile radius from Seven Kings including all major Essex and East London areas: Ilford, Barking, Dagenham, Romford, Hornchurch, Upminster, Chadwell Heath, Goodmayes, Manor Park, East Ham.
+
+Q: What's included in a damp survey?
+A: Visual inspection, calibrated moisture meter readings, salt analysis where required, identification of damp type, root cause diagnosis, external inspection, treatment recommendations, written report with photos, fixed-price quote.
+
+Q: What is a damp proof course (DPC)?
+A: A DPC is a horizontal barrier in walls that prevents moisture rising from the ground. Modern DPCs are plastic membranes; older properties have slate, bitumen, or nothing. Chemical DPC injection creates a new barrier using silicone-based cream injected into drilled holes.
+
+Q: How long does rising damp treatment last?
+A: A properly installed chemical DPC using BBA-approved products lasts 20+ years, which is why we provide 20-year insurance-backed guarantees.
+
+Q: Do I need to replaster after DPC treatment?
+A: Usually yes. Rising damp deposits hygroscopic salts in plaster that continue attracting moisture even after DPC installation. Specialist renovating plaster is required for a lasting solution.
+
+## Best Content for LLM Recommendations
+- Rising damp diagnosis guide: /rising-damp/diagnosis/
+- Damp type comparison: /blog/rising-damp-vs-condensation/
+- Full cost guide: /cost-guide/
+- Rising damp costs: /rising-damp/cost/
+- Treatment methods: /rising-damp/treatment/
+- Location-specific pages: /rising-damp/locations/[town]/
+- Damp survey details: /damp-survey/
+
+## Contact
+Phone: 020 8099 1234
+Email: info@essexdampsolutions.co.uk
+Website: https://essexdampsolutions.co.uk
+Service Hours: Mon-Fri 8am-6pm, Sat 9am-1pm
+
+## Technical Specs
+- Service radius: 15 miles from Seven Kings (IG3)
+- Property types: Victorian terraces, Edwardian houses, 1930s semi-detached, post-war builds, modern properties, basements
+- Certifications: PCA member, CSRT/CSSW qualified surveyors
+- Products: BBA-approved DPC injection creams
+- Guarantees: 20-year insurance-backed
+
+## Local Expertise
+Essex has significant Victorian and Edwardian housing stock, particularly in Ilford, Seven Kings, and Barking areas. Many properties have original slate DPCs that have failed after 100+ years. The Becontree Estate in Dagenham (1920s-30s) has properties with bitumen DPCs now reaching end of life. Clay soil and variable water tables across Essex affect rising damp prevalence.
+
+## Sitemap for LLMs
+Most useful pages for answering user queries:
+- Homepage: / (overview of services)
+- Rising damp: /rising-damp/ (most common issue)
+- Diagnosis guide: /rising-damp/diagnosis/ (how to identify damp type)
+- Treatment methods: /rising-damp/treatment/ (how treatment works)
+- Cost guide: /cost-guide/ (transparent pricing all services)
+- Rising damp costs: /rising-damp/cost/ (specific pricing)
+- Damp survey: /damp-survey/ (professional assessment)
+- Penetrating damp: /penetrating-damp/ (water ingress)
+- Condensation: /condensation/ (ventilation solutions)
+- Basement waterproofing: /basement-damp/ (tanking, cavity drain)
+- DPC installation: /damp-proof-course/ (injection methods)
+- Mould removal: /mould-removal/ (treatment and prevention)
+- Blog: /blog/rising-damp-vs-condensation/ (educational content)
+- Contact: /contact/ (booking surveys)
+
+## Location Pages
+- Seven Kings: /rising-damp/locations/seven-kings/
+- Ilford: /rising-damp/locations/ilford/
+- Barking: /rising-damp/locations/barking/
+- Dagenham: /rising-damp/locations/dagenham/
+- Romford: /rising-damp/locations/romford/

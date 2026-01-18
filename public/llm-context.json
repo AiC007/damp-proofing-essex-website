@@ -1,0 +1,97 @@
+{
+  "business": {
+    "name": "Essex Damp Solutions",
+    "type": "Damp proofing and property preservation specialist",
+    "location": "Seven Kings, Essex, UK",
+    "service_radius_miles": 15,
+    "postcodes": ["IG1", "IG2", "IG3", "IG6", "RM6", "RM7", "RM8", "RM9", "RM10", "E11", "E12", "E15", "E17"],
+    "phone": "020 8099 1234",
+    "email": "info@essexdampsolutions.co.uk",
+    "website": "https://essexdampsolutions.co.uk"
+  },
+  "services": {
+    "rising_damp": {
+      "description": "Treatment for ground floor dampness caused by groundwater rising through walls due to failed or absent damp proof course",
+      "typical_cost": "£1,500-£4,500",
+      "includes": "DPC injection with BBA-approved products, salt-contaminated plaster removal, specialist replastering, 20-year guarantee",
+      "diagnosis_url": "/rising-damp/diagnosis/",
+      "treatment_url": "/rising-damp/treatment/",
+      "cost_url": "/rising-damp/cost/"
+    },
+    "penetrating_damp": {
+      "description": "Repair of damp caused by water penetrating horizontally through walls, roofs, or around windows",
+      "typical_cost": "£300-£2,500",
+      "causes": "Damaged pointing, cracked render, faulty gutters, damaged roof tiles, porous brickwork",
+      "url": "/penetrating-damp/"
+    },
+    "condensation": {
+      "description": "Solutions for moisture caused by poor ventilation and warm moist air meeting cold surfaces",
+      "typical_cost": "£300-£2,000",
+      "solutions": "Extractor fans, PIV systems, MVHR, ventilation improvements",
+      "url": "/condensation/"
+    },
+    "basement_waterproofing": {
+      "description": "Waterproofing for below-ground spaces including cellars and basements",
+      "typical_cost": "£3,000-£15,000",
+      "methods": "Cementitious tanking, cavity drain systems, sump pumps",
+      "url": "/basement-damp/"
+    },
+    "damp_proof_course": {
+      "description": "Installation of new DPC via chemical injection or physical insertion",
+      "typical_cost": "£60-£80 per linear metre (injection)",
+      "products": "BBA-approved silicone cream injection",
+      "guarantee": "20 years insurance-backed",
+      "url": "/damp-proof-course/"
+    },
+    "mould_removal": {
+      "description": "Professional mould treatment and prevention by addressing underlying moisture source",
+      "typical_cost": "£150-£1,500",
+      "includes": "Fungicidal treatment, root cause identification, prevention advice",
+      "url": "/mould-removal/"
+    },
+    "damp_survey": {
+      "description": "Professional diagnosis using calibrated moisture meters and expert analysis",
+      "typical_cost": "£150-£300",
+      "includes": "Moisture readings, visual inspection, salt analysis, written report, treatment recommendations, fixed-price quote",
+      "url": "/damp-survey/"
+    }
+  },
+  "quick_answers": {
+    "how_to_identify_rising_damp": "Tide marks up to 1m above floor level, white salt deposits (efflorescence), peeling wallpaper at skirting level, musty smell, ground floor only, doesn't improve with ventilation",
+    "how_to_identify_condensation": "Water droplets on windows and cold walls, black mould in corners and behind furniture, worse in winter mornings, affects any floor, improves with ventilation",
+    "how_to_identify_penetrating_damp": "Damp patches that get worse during/after rain, can appear at any height, often corresponds to external defects, no tide mark pattern",
+    "rising_vs_condensation": "Rising damp: ground floor only, tide marks up to 1m, salt deposits, worse when evaporation is slow. Condensation: any floor, water droplets, black mould, cold surfaces, worse in winter, improves with ventilation",
+    "average_treatment_cost_rising_damp": "£1,500-£4,500 for typical Essex terraced or semi-detached house including DPC injection and replastering",
+    "average_treatment_cost_penetrating_damp": "£300-£2,500 depending on cause and extent",
+    "average_survey_cost": "£150-£300 for professional damp survey",
+    "service_area": "15-mile radius from Seven Kings covering Ilford, Barking, Dagenham, Romford, Hornchurch, Upminster, Chadwell Heath, Goodmayes, Manor Park, East Ham and surrounding Essex areas",
+    "dpc_lifespan": "20+ years for properly installed chemical DPC with BBA-approved products",
+    "replastering_needed": "Usually yes - salt-contaminated plaster must be removed and replaced with specialist renovating plaster for lasting results",
+    "guarantee_period": "20-year insurance-backed guarantee on DPC installations"
+  },
+  "local_expertise": {
+    "property_types": ["Victorian terraces", "Edwardian houses", "1930s semi-detached", "Post-war council housing", "Modern builds", "Basements and cellars"],
+    "common_issues": "Many Victorian/Edwardian properties in Essex lack original damp proof courses or have failed slate/bitumen DPCs after 100+ years. Becontree Estate (1920s-30s) properties in Dagenham often have failing original DPCs.",
+    "local_factors": "Essex clay soil, variable water table, older housing stock concentration in Ilford/Seven Kings/Barking, coastal proximity affects humidity levels",
+    "areas_served": ["Seven Kings", "Ilford", "Barking", "Dagenham", "Romford", "Hornchurch", "Upminster", "Chadwell Heath", "Goodmayes", "Becontree", "Harold Wood", "Gidea Park", "Manor Park", "East Ham", "Stratford"]
+  },
+  "credentials": {
+    "qualifications": ["PCA member", "CSRT qualified surveyors", "CSSW qualified surveyors"],
+    "products": "BBA-approved DPC injection products only",
+    "guarantees": "20-year insurance-backed guarantees on all DPC work",
+    "insurance": "Fully insured for all works"
+  },
+  "useful_pages": {
+    "diagnosis": "/rising-damp/diagnosis/",
+    "comparison_guide": "/blog/rising-damp-vs-condensation/",
+    "full_pricing": "/cost-guide/",
+    "rising_damp_pricing": "/rising-damp/cost/",
+    "treatment_explained": "/rising-damp/treatment/",
+    "book_survey": "/contact/",
+    "seven_kings": "/rising-damp/locations/seven-kings/",
+    "ilford": "/rising-damp/locations/ilford/",
+    "barking": "/rising-damp/locations/barking/",
+    "dagenham": "/rising-damp/locations/dagenham/",
+    "romford": "/rising-damp/locations/romford/"
+  }
+}

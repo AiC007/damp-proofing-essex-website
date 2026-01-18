@@ -5,11 +5,43 @@ export default function robots(): MetadataRoute.Robots {
 
   return {
     rules: [
+      // Google crawlers (primary search engine)
       {
-        userAgent: "*",
+        userAgent: "Googlebot",
         allow: "/",
         disallow: ["/api/", "/_next/", "/private/"],
       },
+      {
+        userAgent: "Googlebot-Image",
+        allow: "/",
+      },
+      {
+        userAgent: "Googlebot-Video",
+        allow: "/",
+      },
+      // Bing crawlers
+      {
+        userAgent: "Bingbot",
+        allow: "/",
+        disallow: ["/api/", "/_next/", "/private/"],
+      },
+      // Other search engines
+      {
+        userAgent: "Slurp", // Yahoo
+        allow: "/",
+        disallow: ["/api/", "/_next/", "/private/"],
+      },
+      {
+        userAgent: "DuckDuckBot",
+        allow: "/",
+        disallow: ["/api/", "/_next/", "/private/"],
+      },
+      {
+        userAgent: "Yandex",
+        allow: "/",
+        disallow: ["/api/", "/_next/", "/private/"],
+      },
+      // AI crawlers
       {
         userAgent: "GPTBot",
         allow: "/",
@@ -37,6 +69,12 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "Bytespider",
         allow: "/",
+      },
+      // Default rule for all other crawlers
+      {
+        userAgent: "*",
+        allow: "/",
+        disallow: ["/api/", "/_next/", "/private/"],
       },
     ],
     sitemap: `${baseUrl}/sitemap.xml`,

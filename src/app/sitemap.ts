@@ -110,9 +110,39 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.7,
     },
-    // Blog posts
+    // Blog index and posts
+    {
+      url: `${baseUrl}/blog`,
+      lastModified: currentDate,
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
     {
       url: `${baseUrl}/blog/rising-damp-vs-condensation`,
+      lastModified: currentDate,
+      changeFrequency: "yearly",
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/blog/foggy-windows-damp`,
+      lastModified: currentDate,
+      changeFrequency: "yearly",
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/blog/landlord-damp-obligations`,
+      lastModified: currentDate,
+      changeFrequency: "yearly",
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/blog/how-to-tell-rising-damp`,
+      lastModified: currentDate,
+      changeFrequency: "yearly",
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/blog/damp-proofing-cost-guide-2026`,
       lastModified: currentDate,
       changeFrequency: "yearly",
       priority: 0.6,

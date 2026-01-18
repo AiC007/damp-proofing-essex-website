@@ -2,8 +2,8 @@ export const siteData = {
   business: {
     name: "Essex Damp Solutions",
     tagline: "Expert Damp Proofing Services in Essex",
-    phone: "020 XXXX XXXX",
-    email: "info@essexdampsolutions.co.uk",
+    phone: "01708 985 492",
+    email: "info@dampproofing-essex.co.uk",
     address: {
       street: "Seven Kings",
       locality: "Seven Kings",
